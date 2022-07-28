@@ -1,5 +1,7 @@
 # idea
 
+Measure similarity between 2 sentences or expressions. You can paste more than 2 lines and each line will be compared with each other.
+
 ## Setup
 
 ##### 1. Install the following
