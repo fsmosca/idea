@@ -2,6 +2,11 @@
 
 Measure similarity between 2 sentences or expressions. You can paste more than 2 lines and each line will be compared with each other.
 
+## Interface
+
+![image](https://user-images.githubusercontent.com/22366935/181607674-0c683387-231f-465a-88a7-43403303f0e9.png)
+
+
 ## Setup
 
 ##### 1. Install the following
