@@ -4,6 +4,8 @@ Measure similarity between 2 sentences or expressions. You can paste more than 2
 
 ## Interface
 
+You can input arond 50 lines and it will take more time as number of lines increases.
+
 ![image](https://user-images.githubusercontent.com/22366935/181607674-0c683387-231f-465a-88a7-43403303f0e9.png)
 
 
